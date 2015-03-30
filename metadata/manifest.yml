@@ -11,8 +11,8 @@ License: Apache 2
 Categories:
  - service
  - logstash
-Website: https://github.com/TraDuong1/openshift-log-cartridge
-Source-Url: https://github.com/TraDuong1/openshift-log-cartridge.git
+Website: https://github.com/TraDuong1/openshift-origin-cartridge-log
+Source-Url: https://github.com/TraDuong1/openshift-origin-cartridge-log.git
 Help-Topics:
   "Developer Center": http://logstash.net/docs/1.4.2/
 Provides:
