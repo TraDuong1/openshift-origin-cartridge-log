@@ -1,0 +1,9 @@
+#!/bin/bash -e
+
+source $OPENSHIFT_CARTRIDGE_SDK_BASH
+
+LOGSTASH_VERSION='1.4.2'
+LOGSTASH_NAME="logstash-${LOGSTASH_VERSION}"
+LOGSTASH_URL="https://download.elasticsearch.org/logstash/logstash/${LOGSTASH_NAME}.tar.gz"
+
+cd ${OPENSHIFT_LOGSTASH_DIR}
